@@ -1,0 +1,8 @@
+ItemIcon shortsword {
+
+name Shortsword
+description Classic weapon for the questing warrior
+id 6
+imgpath /data/icons/shortsword.png
+
+}

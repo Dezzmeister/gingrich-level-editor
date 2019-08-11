@@ -1,0 +1,8 @@
+ItemIcon remotebomb {
+
+name Remote Bomb
+description Place it down and use the detonator
+id 14
+imgpath /data/icons/remotebomb.png
+
+}

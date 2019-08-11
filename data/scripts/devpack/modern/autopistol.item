@@ -1,0 +1,8 @@
+ItemIcon autopistol {
+
+name Auto Pistol
+description Gang gang.
+id 12
+imgpath /data/icons/autopistol.png
+
+}

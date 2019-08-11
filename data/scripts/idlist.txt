@@ -1,0 +1,18 @@
+=======AUTO-GENERATED ID LIST=======
+THIS FILE LISTS EVERY SCRIPTED ITEM AVAILABLE IN THE EDITOR
+
+PACK:    devpack    NAME: Shortsword    ID: 6
+PACK:    devpack    NAME: Long Sword    ID: 7
+PACK:    devpack    NAME: Golden Sword    ID: 8
+PACK:    devpack    NAME: Flaming Sword    ID: 5
+PACK:    devpack    NAME: Wooden Staff    ID: 17
+PACK:    devpack    NAME: Metal-Tipped Staff    ID: 20
+PACK:    devpack    NAME: Better Staff    ID: 16
+PACK:    devpack    NAME: Lightning Staff    ID: 19
+PACK:    devpack    NAME: Chaos Staff    ID: 18
+PACK:    devpack    NAME: Semi Pistol    ID: 9
+PACK:    devpack    NAME: Auto Pistol    ID: 12
+PACK:    devpack    NAME: Classic Bomb    ID: 10
+PACK:    devpack    NAME: Hitler Bomb    ID: 11
+PACK:    devpack    NAME: Remote Bomb    ID: 14
+PACK:    devpack    NAME: Detonator    ID: 15

@@ -1,0 +1,15 @@
+/classic/shortsword.item
+/classic/longsword.item
+/classic/goldsword.item
+/classic/flamesword.item
+/classic/woodstaff.item
+/classic/metalstaff.item
+/classic/betterstaff.item
+/classic/lightningstaff.item
+/classic/chaosstaff.item
+/modern/pistol.item
+/modern/autopistol.item
+/modern/bomb.item
+/modern/hitlerbomb.item
+/modern/remotebomb.item
+/modern/detonator.item

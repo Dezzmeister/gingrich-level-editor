@@ -1,0 +1,8 @@
+ItemIcon detonator {
+
+name Detonator
+description Used to detonate Remote Bombs
+id 15
+imgpath /data/icons/detonator.png
+
+}

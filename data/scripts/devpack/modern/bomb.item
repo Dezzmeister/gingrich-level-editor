@@ -1,0 +1,8 @@
+ItemIcon bomb {
+
+name Classic Bomb
+description Allahu Akbar
+id 10
+imgpath /data/icons/bomb.png
+
+}

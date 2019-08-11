@@ -1,0 +1,8 @@
+ItemIcon goldsword {
+
+name Golden Sword
+description A warrior's ultimate killing machine
+id 8
+imgpath /data/icons/goldsword.png
+
+}

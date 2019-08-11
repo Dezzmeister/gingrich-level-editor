@@ -1,0 +1,8 @@
+ItemIcon betterstaff {
+
+name Better Staff
+description A staff for beating people. Also enhances magical ability.
+id 16
+imgpath /data/icons/betterstaff.png
+
+}

@@ -1,0 +1,8 @@
+ItemIcon woodstaff {
+
+name Wooden Staff
+description Dishes out quick beatings
+id 17
+imgpath /data/icons/woodstaff.png
+
+}

@@ -1,0 +1,8 @@
+ItemIcon pistol {
+
+name Semi Pistol
+description Bullet Magic
+id 9
+imgpath /data/icons/pistol.png
+
+}

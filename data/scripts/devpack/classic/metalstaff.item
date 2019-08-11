@@ -1,0 +1,8 @@
+ItemIcon metalstaff {
+
+name Metal-Tipped Staff
+description Causes more damage than its wooden version
+id 20
+imgpath /data/icons/metalstaff.png
+
+}

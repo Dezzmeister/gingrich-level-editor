@@ -1,0 +1,8 @@
+ItemIcon lightningstaff {
+
+name Lightning Staff
+description Smite your foes with lightning
+id 19
+imgpath /data/icons/lightningstaff.png
+
+}

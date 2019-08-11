@@ -1,0 +1,17 @@
+=======AUTO-GENERATED ID LIST=======
+
+NAME: Shortsword    ID: 6
+NAME: Long Sword    ID: 7
+NAME: Golden Sword    ID: 8
+NAME: Flaming Sword    ID: 13
+NAME: Wooden Staff    ID: 17
+NAME: Metal-Tipped Staff    ID: 20
+NAME: Better Staff    ID: 16
+NAME: Lightning Staff    ID: 19
+NAME: Chaos Staff    ID: 18
+NAME: Semi Pistol    ID: 9
+NAME: Auto Pistol    ID: 12
+NAME: Classic Bomb    ID: 10
+NAME: Hitler Bomb    ID: 11
+NAME: Remote Bomb    ID: 14
+NAME: Detonator    ID: 15

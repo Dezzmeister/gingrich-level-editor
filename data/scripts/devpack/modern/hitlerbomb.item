@@ -1,0 +1,8 @@
+ItemIcon hitlerbomb {
+
+name Hitler Bomb
+description Hitler's favorite explosive
+id 11
+imgpath /data/icons/hitlerbomb.png
+
+}

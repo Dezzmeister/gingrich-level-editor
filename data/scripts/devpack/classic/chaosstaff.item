@@ -1,0 +1,8 @@
+ItemIcon chaosstaff {
+
+name Chaos Staff
+description Wreak magical havoc upon your enemies
+id 18
+imgpath /data/icons/chaosstaff.png
+
+}

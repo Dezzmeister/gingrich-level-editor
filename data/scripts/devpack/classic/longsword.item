@@ -1,0 +1,8 @@
+ItemIcon longsword {
+
+name Long Sword
+description More range and damage, less speed
+id 7
+imgpath /data/icons/longsword.png
+
+}

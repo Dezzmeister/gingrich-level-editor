@@ -1,0 +1,8 @@
+ItemIcon flamesword {
+
+name Flaming Sword
+description Straight out of Hell
+id 5
+imgpath /data/icons/flamesword.png
+
+}

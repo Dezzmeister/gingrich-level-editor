@@ -1,0 +1,5 @@
+The name of this level is autogenidlisttest.
+
+autogenidlisttest was created by Dezzy and saved on 8/6/2017.
+
+This folder should have the same name as the level and contain a .gng and .dat file. All files should have the same name as the folder.
